@@ -85,10 +85,10 @@ func main() {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔐 [**CVE Vulnerability Monitor**](https://github.com/Joshi-Anish) | Real-time security monitoring — tracks NVD CVE feeds & alerts users when their stack is at risk | `Go` `Next.js` `PostgreSQL` `Fly.io` |
+| 🔐 [**CVE Vulnerability Monitor**](https://github.com/Joshi-Anish/cve-vulnerability-monitor) | Real-time security monitoring — tracks NVD CVE feeds & alerts users when their stack is at risk | `Go` `Next.js` `PostgreSQL` `Fly.io` |
 | 🏢 [**RBAC System**](https://github.com/Joshi-Anish/RBAC) | Real-world Role-Based Access Control system for enterprise authorization | `Go` |
 | 📋 [**Attendance Management**](https://github.com/Joshi-Anish/attendance-management-system) | Camera-based student tracking with arrival/departure dashboard | `Go (Gin)` `JavaScript` |
-| 📝 [**HamroNotes**](https://github.com/Joshi-Anish) | Platform for buying & selling academic notes | `React` `Firebase` |
+| 🤖 [**Sajilo Hajiri**](https://github.com/NabinPrasadDhungana/Sajilo-Hajiri) | Automatic attendance system using Django & Face Recognition | `Django` `Python` `Face Recognition` |
 
 </div>
 
