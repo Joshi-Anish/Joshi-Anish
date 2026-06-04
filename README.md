@@ -1,89 +1,133 @@
-<h1 align="center">Hey there! 👋 I'm Anish Joshi</h1>
+<div align="center">
 
-<p align="center">
-  <em>Computer Engineering student · Backend & Full-Stack Developer · Builder</em>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anish%20Joshi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Golang%20Intern%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+secure+backend+systems+%F0%9F%94%90;Go+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p>
+  <a href="mailto:joshianish222@gmail.com"><img src="https://img.shields.io/badge/Gmail-joshianish222-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anish-joshi-435428230"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Joshi-Anish"><img src="https://img.shields.io/badge/GitHub-Joshi--Anish-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Joshi-Anish&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="center">
-  <a href="mailto:joshianish222@gmail.com"><img src="https://img.shields.io/badge/email-joshianish222%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anish-joshi-435428230"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Joshi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Joshi-Anish"><img src="https://img.shields.io/github/followers/Joshi-Anish?label=Follow&style=flat&logo=github" /></a>
-</p>
+</div>
 
 ---
 
-## 🙋 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 8th semester **IT Engineering** student at Pokhara University, based in **Kathmandu, Nepal**
-- 💼 Currently interning as a **Golang Developer** — building real-world backend systems
-- 🔭 Currently building a **CVE Vulnerability Monitor** — a real-time security alerting system using Go + Next.js
-- 🔐 Passionate about **Cybersecurity** — with hands-on knowledge in vulnerability research and security systems
-- 🌱 Always learning — currently deep in **Go (chi, sqlx)**, **Next.js 14**, and **PostgreSQL**
-- 💬 Ask me about Go backends, cybersecurity, React frontends, Firebase, or Flutter
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name        string
+    Location    string
+    Education   string
+    Role        string
+    Interests   []string
+    CurrentWork string
+}
+
+func main() {
+    me := Developer{
+        Name:      "Anish Joshi",
+        Location:  "Kathmandu, Nepal 🇳🇵",
+        Education: "IT Engineering, 8th Sem — Pokhara University",
+        Role:      "Golang Intern 💼",
+        Interests: []string{"Backend Dev", "Cybersecurity", "Open Source"},
+        CurrentWork: "CVE Vulnerability Monitor — Go + Next.js",
+    }
+    fmt.Println("Always learning, always building 🚀")
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+<div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages**
 
-**Frameworks & Tools:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat&logo=fly.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔐 [**CVE Vulnerability Monitor**](https://github.com/Joshi-Anish) — Real-time security monitoring system that tracks NVD CVE feeds and alerts users when vulnerabilities affect their product stack. Built with **Go** (chi, sqlx), **Next.js 14**, **PostgreSQL**, and deployed on Fly.io.
+<div align="center">
 
-- 🏢 [**RBAC System**](https://github.com/Joshi-Anish/RBAC) — Simulates a real-world Role-Based Access Control setup for a company, built to learn enterprise authorization patterns.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔐 [**CVE Vulnerability Monitor**](https://github.com/Joshi-Anish) | Real-time security monitoring — tracks NVD CVE feeds & alerts users when their stack is at risk | `Go` `Next.js` `PostgreSQL` `Fly.io` |
+| 🏢 [**RBAC System**](https://github.com/Joshi-Anish/RBAC) | Real-world Role-Based Access Control system for enterprise authorization | `Go` |
+| 📋 [**Attendance Management**](https://github.com/Joshi-Anish/attendance-management-system) | Camera-based student tracking with arrival/departure dashboard | `Go (Gin)` `JavaScript` |
+| 📝 [**HamroNotes**](https://github.com/Joshi-Anish) | Platform for buying & selling academic notes | `React` `Firebase` |
 
-- 📋 [**Attendance Management System**](https://github.com/Joshi-Anish/attendance-management-system) — Full-stack attendance system built with **Go (Gin)** for backend learning, featuring camera-based student tracking with arrival/departure dashboards.
-
-- 📝 [**HamroNotes**](https://github.com/Joshi-Anish) — A platform for buying and selling academic and non-academic notes.
-
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshi-Anish&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Anish&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshi-Anish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshi-Anish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Anish&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects, contributing to open source, or just having a chat about tech.
-
-📫 **Reach me:**
-- 📧 Email: [joshianish222@gmail.com](mailto:joshianish222@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anish-joshi-435428230](https://linkedin.com/in/anish-joshi-435428230)
-- 🐙 GitHub: [github.com/Joshi-Anish](https://github.com/Joshi-Anish)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshi-Anish&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
+</div>
 
 ---
 
-<p align="center"><em>⚡ Let's build something great together!</em></p>
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/Joshi-Anish/Joshi-Anish/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joshi-Anish/Joshi-Anish/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Joshi-Anish/Joshi-Anish/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://github.com/Joshi-Anish/Joshi-Anish/blob/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, contributing to open source, or chatting about tech & cybersecurity!
+
+[![Gmail](https://img.shields.io/badge/joshianish222%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianish222@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Anish%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-joshi-435428230)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
