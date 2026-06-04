@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! 👋 I'm Anish Joshi</h1>
 
 <p align="center">
-  <em>IT student · Backend & Full-Stack Developer · Builder</em>
+  <em>Computer Engineering student · Backend & Full-Stack Developer · Builder</em>
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-your%40email.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Joshi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joshianish222@gmail.com"><img src="https://img.shields.io/badge/email-joshianish222%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anish-joshi-435428230"><img src="https://img.shields.io/badge/LinkedIn-Anish%20Joshi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Joshi-Anish"><img src="https://img.shields.io/github/followers/Joshi-Anish?label=Follow&style=flat&logo=github" /></a>
 </p>
 
@@ -59,7 +59,6 @@
 
 - 📝 [**HamroNotes**](https://github.com/Joshi-Anish) — A platform for buying and selling academic and non-academic notes.
 
-- 🌍 [**Travel Packing Assistant Chatbot**](https://github.com/Joshi-Anish) — AI chatbot that generates personalized packing lists based on destination, weather, and travel type.
 
 ---
 
@@ -81,8 +80,8 @@
 I'm always open to collaborating on interesting projects, contributing to open source, or just having a chat about tech.
 
 📫 **Reach me:**
-- 📧 Email: [your@email.com](mailto:your@email.com)
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📧 Email: [joshianish222@gmail.com](mailto:joshianish222@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/anish-joshi-435428230](https://linkedin.com/in/anish-joshi-435428230)
 - 🐙 GitHub: [github.com/Joshi-Anish](https://github.com/Joshi-Anish)
 
 ---
