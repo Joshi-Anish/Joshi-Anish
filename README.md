@@ -55,14 +55,12 @@ func main() {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,9 +84,9 @@ func main() {
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔐 [**CVE Vulnerability Monitor**](https://github.com/Joshi-Anish/cve-vulnerability-monitor) | Real-time security monitoring — tracks NVD CVE feeds & alerts users when their stack is at risk | `Go` `Next.js` `PostgreSQL` `Fly.io` |
-| 🏢 [**RBAC System**](https://github.com/Joshi-Anish/RBAC) | Real-world Role-Based Access Control system for enterprise authorization | `Go` |
-| 📋 [**Attendance Management**](https://github.com/Joshi-Anish/attendance-management-system) | Camera-based student tracking with arrival/departure dashboard | `Go (Gin)` `JavaScript` |
+| 📋 [**Attendance Management**](https://github.com/Joshi-Anish/attendance-management-system) | Camera-based student tracking with arrival/departure dashboard | `Go (Gin)` `JavaScript(react)` |
 | 🤖 [**Sajilo Hajiri**](https://github.com/NabinPrasadDhungana/Sajilo-Hajiri) | Automatic attendance system using Django & Face Recognition | `Django` `Python` `Face Recognition` |
+| 🏢 [**RBAC System**](https://github.com/Joshi-Anish/RBAC) | Real-world Role-Based Access Control system for enterprise authorization | `linux ` |
 
 </div>
 
